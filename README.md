@@ -1,5 +1,3 @@
-<img src="assets/profile.jpg" align="right" width="220" alt="Profile art" />
-
 # Hi, I'm RedMatter 👋
 
 I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and game patching.
@@ -25,6 +23,10 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Hermes](https://img.shields.io/badge/Hermes-6E40C9?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="assets/profile.jpg" width="300" alt="Profile art" />
+</p>
 
 ## 📫 Contact
 
