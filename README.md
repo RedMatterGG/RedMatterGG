@@ -1,4 +1,4 @@
-# Hi, I'm Meower 👋
+# Hi, I'm RedMatter 👋
 
 I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and game patching.
 
@@ -24,10 +24,15 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 ![Hermes](https://img.shields.io/badge/Hermes-6E40C9?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<p align="center">
+  <img src="assets/profile.jpg" width="300" alt="Profile art" />
+</p>
+
 ## 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-meowerthetruesigma-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
+Add me on Discord at **`meowerthetruesigma`** to talk about any of these projects.
 
 ---
 
