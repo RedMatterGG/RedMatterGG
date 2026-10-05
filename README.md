@@ -1,3 +1,5 @@
+<img src="assets/profile.jpg" align="right" width="220" alt="Profile art" />
+
 # Hi, I'm RedMatter 👋
 
 I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and game patching.
