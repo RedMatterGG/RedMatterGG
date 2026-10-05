@@ -19,6 +19,12 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Discord](https://img.shields.io/badge/BetterDiscord%20%2F%20Vencord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-6E40C9?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-4338CA?style=for-the-badge)
 
 ## 📫 Contact
 
