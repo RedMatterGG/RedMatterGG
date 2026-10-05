@@ -24,7 +24,6 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 
 [![Discord](https://img.shields.io/badge/Discord-meowerthetruesigma-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
-Add me on Discord at **`meowerthetruesigma`** to talk about any of these projects.
 
 ---
 
