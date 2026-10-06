@@ -1,4 +1,4 @@
-# Hi, I'm RedMatter 👋
+# Hi, I'm Meower 👋
 
 I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and game patching.
 
