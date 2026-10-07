@@ -1,6 +1,6 @@
 # Hi, I'm Meower 👋
 
-I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and game patching.
+I build small tools that fix things that bug me: Android network tweaks, Discord plugins, torrent search add-ons, and modding tools for *INSIDE*.
 
 ## 🚀 Projects
 
@@ -8,6 +8,7 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 | --- | --- | --- |
 | [**WifiMaxxer**](https://github.com/RedMatterGG/WifiMaxxer) | Android Wi-Fi optimizer for rooted devices (Magisk / KernelSU). It uses Android's built-in low-latency Wi-Fi controls to cut latency and make gaming and networking more responsive. | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | [**ClampDown**](https://github.com/RedMatterGG/ClampDown) | Compresses media locally and splits archives into multipart 7z files, for BetterDiscord and Vencord. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**InsideDevTool**](https://github.com/RedMatterGG/InsideDevTool) | In-game editor and explorer for Playdead's *INSIDE*: browse and edit the live scene, inspect PlayMaker state machines, code and audio, record changes as mods, and inspect memory with Cheat Engine. Includes an optional MCP server for AI assistants. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**InsidePatcher**](https://github.com/RedMatterGG/InsidePatcher) | 🚧 Work in progress: a patcher that restores cut content in Playdead's *INSIDE*. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**IAQbitorrentSearchPlugin**](https://github.com/RedMatterGG/IAQbitorrentSearchPlugin) | qBittorrent search plugin that searches Internet Archive content from inside qBittorrent. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
@@ -31,7 +32,6 @@ I build small tools that fix things that bug me: Android network tweaks, Discord
 ## 📫 Contact
 
 [![Discord](https://img.shields.io/badge/Discord-meowerthetruesigma-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
 
 ---
 
